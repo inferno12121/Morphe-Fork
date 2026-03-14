@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/inferno12121/Morphe-Fork/compare/v1.1.0...v1.2.0) (2026-03-14)
+
+
+### Features
+
+* Google Photos patches for Morphe ([cb1a7c7](https://github.com/inferno12121/Morphe-Fork/commit/cb1a7c78b3f497907852e58a6782b6326b94e52a))
+
 # [1.1.0](https://github.com/inferno12121/Morphe-Fork/compare/v1.0.0...v1.1.0) (2026-03-14)
 
 
